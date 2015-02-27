@@ -1,8 +1,8 @@
 # Comment `git`ter
 
-# Assomptions
+# Presomptions
 
-Ce document assume que vous n'entrerez pas de mote de passe et que votre `git` est configuré pour fonctionner par SSH, avec `~/.ssh/config` et une identité rsa.
+Ce document presume que vous n'entrerez pas de mot de passe et que votre `git` est configuré pour fonctionner par SSH, avec `~/.ssh/config` et une identité rsa.
 
 ## Créer un repo
 
